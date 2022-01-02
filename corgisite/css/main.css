@@ -146,6 +146,7 @@ img
   max-width: 480px;
   overflow: initial;
   flex: 50%;
+  overflow: initial;
 }
 
 .img-kardigan
